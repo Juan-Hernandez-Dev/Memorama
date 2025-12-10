@@ -1,0 +1,184 @@
+# BANCO EDUCATIVO - JUEGO DE MEMORIA
+# Formato: CATEGORIA|PREGUNTA|RESPUESTA
+# Las líneas que comienzan con # son comentarios
+
+# ===============================================
+# MATEMÁTICAS - OPERACIONES (45 pares)
+# ===============================================
+MATEMATICAS|2+3|5
+MATEMATICAS|5+7|12
+MATEMATICAS|8+6|14
+MATEMATICAS|9+4|13
+MATEMATICAS|12+8|20
+MATEMATICAS|15+5|20
+MATEMATICAS|7+9|16
+MATEMATICAS|11+6|17
+MATEMATICAS|14+3|17
+MATEMATICAS|6+8|14
+MATEMATICAS|3×4|12
+MATEMATICAS|5×3|15
+MATEMATICAS|7×2|14
+MATEMATICAS|6×4|24
+MATEMATICAS|8×3|24
+MATEMATICAS|9×2|18
+MATEMATICAS|4×5|20
+MATEMATICAS|7×3|21
+MATEMATICAS|6×6|36
+MATEMATICAS|8×5|40
+MATEMATICAS|9×4|36
+MATEMATICAS|7×7|49
+MATEMATICAS|8×8|64
+MATEMATICAS|9×9|81
+MATEMATICAS|12×2|24
+MATEMATICAS|10-3|7
+MATEMATICAS|15-8|7
+MATEMATICAS|20-5|15
+MATEMATICAS|18-9|9
+MATEMATICAS|25-10|15
+MATEMATICAS|30-12|18
+MATEMATICAS|40-15|25
+MATEMATICAS|50-20|30
+MATEMATICAS|100-25|75
+MATEMATICAS|80-30|50
+MATEMATICAS|24÷3|8
+MATEMATICAS|36÷4|9
+MATEMATICAS|45÷5|9
+MATEMATICAS|48÷6|8
+MATEMATICAS|56÷7|8
+MATEMATICAS|64÷8|8
+MATEMATICAS|72÷9|8
+MATEMATICAS|100÷10|10
+MATEMATICAS|50÷5|10
+MATEMATICAS|81÷9|9
+
+# ===============================================
+# GEOGRAFÍA - CAPITALES (38 pares)
+# ===============================================
+GEOGRAFIA|Francia|París
+GEOGRAFIA|España|Madrid
+GEOGRAFIA|Italia|Roma
+GEOGRAFIA|Alemania|Berlín
+GEOGRAFIA|Portugal|Lisboa
+GEOGRAFIA|Grecia|Atenas
+GEOGRAFIA|Polonia|Varsovia
+GEOGRAFIA|Suecia|Estocolmo
+GEOGRAFIA|Noruega|Oslo
+GEOGRAFIA|Dinamarca|Copenhague
+GEOGRAFIA|Finlandia|Helsinki
+GEOGRAFIA|Holanda|Ámsterdam
+GEOGRAFIA|Bélgica|Bruselas
+GEOGRAFIA|Austria|Viena
+GEOGRAFIA|Suiza|Berna
+GEOGRAFIA|México|Ciudad de México
+GEOGRAFIA|Argentina|Buenos Aires
+GEOGRAFIA|Brasil|Brasilia
+GEOGRAFIA|Chile|Santiago
+GEOGRAFIA|Colombia|Bogotá
+GEOGRAFIA|Perú|Lima
+GEOGRAFIA|Venezuela|Caracas
+GEOGRAFIA|Ecuador|Quito
+GEOGRAFIA|Bolivia|La Paz
+GEOGRAFIA|Uruguay|Montevideo
+GEOGRAFIA|Japón|Tokio
+GEOGRAFIA|China|Pekín
+GEOGRAFIA|India|Nueva Delhi
+GEOGRAFIA|Corea del Sur|Seúl
+GEOGRAFIA|Tailandia|Bangkok
+GEOGRAFIA|Egipto|El Cairo
+GEOGRAFIA|Marruecos|Rabat
+GEOGRAFIA|Kenia|Nairobi
+GEOGRAFIA|Australia|Canberra
+GEOGRAFIA|Canadá|Ottawa
+GEOGRAFIA|Estados Unidos|Washington DC
+GEOGRAFIA|Reino Unido|Londres
+GEOGRAFIA|Rusia|Moscú
+
+# ===============================================
+# VOCABULARIO - INGLÉS/ESPAÑOL (52 pares)
+# ===============================================
+VOCABULARIO|house|casa
+VOCABULARIO|dog|perro
+VOCABULARIO|cat|gato
+VOCABULARIO|car|auto
+VOCABULARIO|book|libro
+VOCABULARIO|water|agua
+VOCABULARIO|food|comida
+VOCABULARIO|tree|árbol
+VOCABULARIO|flower|flor
+VOCABULARIO|sun|sol
+VOCABULARIO|moon|luna
+VOCABULARIO|star|estrella
+VOCABULARIO|friend|amigo
+VOCABULARIO|family|familia
+VOCABULARIO|school|escuela
+VOCABULARIO|teacher|maestro
+VOCABULARIO|student|estudiante
+VOCABULARIO|desk|escritorio
+VOCABULARIO|chair|silla
+VOCABULARIO|window|ventana
+VOCABULARIO|door|puerta
+VOCABULARIO|table|mesa
+VOCABULARIO|phone|teléfono
+VOCABULARIO|computer|computadora
+VOCABULARIO|pencil|lápiz
+VOCABULARIO|paper|papel
+VOCABULARIO|hand|mano
+VOCABULARIO|foot|pie
+VOCABULARIO|head|cabeza
+VOCABULARIO|eye|ojo
+VOCABULARIO|ear|oreja
+VOCABULARIO|nose|nariz
+VOCABULARIO|mouth|boca
+VOCABULARIO|heart|corazón
+VOCABULARIO|love|amor
+VOCABULARIO|happy|feliz
+VOCABULARIO|sad|triste
+VOCABULARIO|good|bueno
+VOCABULARIO|bad|malo
+VOCABULARIO|big|grande
+VOCABULARIO|small|pequeño
+VOCABULARIO|fast|rápido
+VOCABULARIO|slow|lento
+VOCABULARIO|hot|caliente
+VOCABULARIO|cold|frío
+VOCABULARIO|day|día
+VOCABULARIO|night|noche
+VOCABULARIO|time|tiempo
+VOCABULARIO|year|año
+VOCABULARIO|month|mes
+VOCABULARIO|week|semana
+VOCABULARIO|color|color
+
+# ===============================================
+# CIENCIAS - ELEMENTOS QUÍMICOS (30 pares)
+# ===============================================
+CIENCIAS|Hidrógeno|H
+CIENCIAS|Helio|He
+CIENCIAS|Carbono|C
+CIENCIAS|Nitrógeno|N
+CIENCIAS|Oxígeno|O
+CIENCIAS|Flúor|F
+CIENCIAS|Neón|Ne
+CIENCIAS|Sodio|Na
+CIENCIAS|Magnesio|Mg
+CIENCIAS|Aluminio|Al
+CIENCIAS|Silicio|Si
+CIENCIAS|Fósforo|P
+CIENCIAS|Azufre|S
+CIENCIAS|Cloro|Cl
+CIENCIAS|Argón|Ar
+CIENCIAS|Potasio|K
+CIENCIAS|Calcio|Ca
+CIENCIAS|Hierro|Fe
+CIENCIAS|Cobre|Cu
+CIENCIAS|Zinc|Zn
+CIENCIAS|Plata|Ag
+CIENCIAS|Oro|Au
+CIENCIAS|Mercurio|Hg
+CIENCIAS|Plomo|Pb
+CIENCIAS|Uranio|U
+CIENCIAS|Platino|Pt
+CIENCIAS|Titanio|Ti
+CIENCIAS|Cromo|Cr
+CIENCIAS|Níquel|Ni
+CIENCIAS|Estaño|Sn

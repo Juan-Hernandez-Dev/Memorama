@@ -1,0 +1,23 @@
+# Configuracion del Juego de Memoria
+
+# Tiempos por nivel (segundos)
+tiempo_facil=90
+tiempo_medio=120
+tiempo_dificil=180
+
+# Numero de parejas por nivel
+parejas_facil=8
+parejas_medio=12
+parejas_dificil=18
+
+# Tiempo de revelado inicial (segundos)
+revelado_facil=5
+revelado_medio=4
+revelado_dificil=3
+
+# Sistema de puntuacion
+puntos_acierto=100
+bonus_combo=50
+penalidad_fallo=10
+bonus_tiempo=10
+penalidad_revelado=50

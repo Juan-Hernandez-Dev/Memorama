@@ -1,0 +1,4 @@
+=== TABLA DE RECORDS - JUEGO DE MEMORIA ===
+
+#    JUGADOR        PUNTOS    TIEMPO    PRECISION   COMBO   NIVEL       CATEGORIA
+------------------------------------------------------------------------------------------
