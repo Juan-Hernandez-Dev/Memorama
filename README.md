@@ -129,4 +129,4 @@ El script automáticamente:
 
 ## Autor
 
-Proyecto educativo - Juego de Memoria con SDL2
+Juan Hernández
